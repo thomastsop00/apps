@@ -1035,6 +1035,54 @@ img {
   --app-btn-shadow: rgba(48, 96, 160, 0.22);
 }
 
+.app-page--countdown-big-events {
+  --app-hero: linear-gradient(135deg, #4a5a9e 0%, #6a80c0 50%, #9070b8 100%);
+  --app-glow: rgba(106, 128, 192, 0.18);
+  --app-accent: #5a6ab0;
+  --app-accent-end: #9070b8;
+  --app-btn-shadow: rgba(90, 106, 176, 0.22);
+}
+
+.app-page--countdown-plus {
+  --app-hero: linear-gradient(135deg, #7a2828 0%, #a83838 50%, #c04848 100%);
+  --app-glow: rgba(168, 56, 56, 0.18);
+  --app-accent: #a03030;
+  --app-accent-end: #c04848;
+  --app-btn-shadow: rgba(160, 48, 48, 0.22);
+}
+
+.app-page--email-templates {
+  --app-hero: linear-gradient(135deg, #1a3a8a 0%, #2a5ab5 50%, #4080d8 100%);
+  --app-glow: rgba(42, 90, 181, 0.15);
+  --app-accent: #2450a0;
+  --app-accent-end: #4080d8;
+  --app-btn-shadow: rgba(36, 80, 160, 0.22);
+}
+
+.app-page--sms-templates {
+  --app-hero: linear-gradient(135deg, #1a6858 0%, #28907a 50%, #38aa94 100%);
+  --app-glow: rgba(40, 144, 122, 0.18);
+  --app-accent: #207a68;
+  --app-accent-end: #38aa94;
+  --app-btn-shadow: rgba(32, 122, 104, 0.22);
+}
+
+.app-page--tally-counters {
+  --app-hero: linear-gradient(135deg, #3a4a68 0%, #5a7090 50%, #7088a8 100%);
+  --app-glow: rgba(90, 112, 144, 0.15);
+  --app-accent: #4a6080;
+  --app-accent-end: #7088a8;
+  --app-btn-shadow: rgba(74, 96, 128, 0.22);
+}
+
+.app-page--list-to-do {
+  --app-hero: linear-gradient(135deg, #2a7a6a 0%, #40a88a 50%, #58c4a0 100%);
+  --app-glow: rgba(64, 168, 138, 0.18);
+  --app-accent: #38966e;
+  --app-accent-end: #58c4a0;
+  --app-btn-shadow: rgba(56, 150, 110, 0.22);
+}
+
 /* -----------------------------------------------
    Page-load entrance
    ----------------------------------------------- */
