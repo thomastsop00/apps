@@ -1083,6 +1083,14 @@ img {
   --app-btn-shadow: rgba(90, 88, 176, 0.22);
 }
 
+.app-page--recipes-filters {
+  --app-hero: linear-gradient(135deg, #2a2208 0%, #5c4a14 50%, #8a7028 100%);
+  --app-glow: rgba(138, 112, 40, 0.18);
+  --app-accent: #8a7028;
+  --app-accent-end: #c4a830;
+  --app-btn-shadow: rgba(138, 112, 40, 0.22);
+}
+
 /* -----------------------------------------------
    Page-load entrance
    ----------------------------------------------- */
